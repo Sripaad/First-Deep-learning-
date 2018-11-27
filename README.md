@@ -5,10 +5,8 @@
    It's a dataset of hand-written digits, 0 through 9. It's 28x28 images of these hand-written digits.
    Here is a link for more information.   https://keras.io/datasets/  
 # Dependecies
-    Tensorflow :
-                 import tensorflow as tf
-    Keras :
-            import tensorflow.keras as keras
+    Tensorflow : import tensorflow as tf
+    Keras : import tensorflow.keras as keras
             
 A basic neural network consists of an input layer, which is just your data, in numerical form. After your input layer, you will have some number of what are called "hidden" layers. A hidden layer is just in between your input and output layers. One hidden layer means you just have a neural network. Two or more hidden layers, a deep neural network
 
